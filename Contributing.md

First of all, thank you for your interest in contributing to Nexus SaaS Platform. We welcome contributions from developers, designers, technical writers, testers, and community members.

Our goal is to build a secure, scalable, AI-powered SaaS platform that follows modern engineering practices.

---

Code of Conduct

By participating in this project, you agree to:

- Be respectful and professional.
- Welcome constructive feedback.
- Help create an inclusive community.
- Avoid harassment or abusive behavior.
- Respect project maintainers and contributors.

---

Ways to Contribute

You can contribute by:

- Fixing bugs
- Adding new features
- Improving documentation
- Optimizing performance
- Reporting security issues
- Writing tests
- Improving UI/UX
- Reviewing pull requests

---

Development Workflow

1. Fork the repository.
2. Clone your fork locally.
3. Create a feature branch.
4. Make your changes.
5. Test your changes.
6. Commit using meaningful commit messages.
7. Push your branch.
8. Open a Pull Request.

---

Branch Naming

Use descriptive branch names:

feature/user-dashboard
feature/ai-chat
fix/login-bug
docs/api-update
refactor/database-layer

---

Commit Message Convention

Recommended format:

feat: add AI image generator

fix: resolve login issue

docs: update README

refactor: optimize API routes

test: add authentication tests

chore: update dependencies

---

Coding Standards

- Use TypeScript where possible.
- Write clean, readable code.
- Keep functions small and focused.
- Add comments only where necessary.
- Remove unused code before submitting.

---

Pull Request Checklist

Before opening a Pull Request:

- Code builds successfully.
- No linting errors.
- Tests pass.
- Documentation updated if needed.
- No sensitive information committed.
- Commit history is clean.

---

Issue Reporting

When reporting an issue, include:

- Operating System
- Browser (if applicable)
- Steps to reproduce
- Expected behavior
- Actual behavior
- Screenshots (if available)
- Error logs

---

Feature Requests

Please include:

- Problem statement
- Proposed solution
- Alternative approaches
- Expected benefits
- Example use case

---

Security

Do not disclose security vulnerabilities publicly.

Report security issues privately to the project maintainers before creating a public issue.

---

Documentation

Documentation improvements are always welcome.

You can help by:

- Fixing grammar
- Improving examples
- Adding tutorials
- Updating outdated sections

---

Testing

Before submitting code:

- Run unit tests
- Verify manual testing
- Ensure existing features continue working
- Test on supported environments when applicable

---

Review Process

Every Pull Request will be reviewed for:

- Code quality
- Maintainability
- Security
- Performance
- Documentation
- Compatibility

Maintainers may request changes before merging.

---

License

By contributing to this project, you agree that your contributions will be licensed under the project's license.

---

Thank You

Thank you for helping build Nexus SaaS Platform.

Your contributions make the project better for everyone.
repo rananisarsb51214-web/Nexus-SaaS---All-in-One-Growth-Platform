@@ -1,0 +1,185 @@
+Contributing to Nexus SaaS Platform
+
+First of all, thank you for your interest in contributing to Nexus SaaS Platform. We welcome contributions from developers, designers, technical writers, testers, and community members.
+
+Our goal is to build a secure, scalable, AI-powered SaaS platform that follows modern engineering practices.
+
+---
+
+Code of Conduct
+
+By participating in this project, you agree to:
+
+- Be respectful and professional.
+- Welcome constructive feedback.
+- Help create an inclusive community.
+- Avoid harassment or abusive behavior.
+- Respect project maintainers and contributors.
+
+---
+
+Ways to Contribute
+
+You can contribute by:
+
+- Fixing bugs
+- Adding new features
+- Improving documentation
+- Optimizing performance
+- Reporting security issues
+- Writing tests
+- Improving UI/UX
+- Reviewing pull requests
+
+---
+
+Development Workflow
+
+1. Fork the repository.
+2. Clone your fork locally.
+3. Create a feature branch.
+4. Make your changes.
+5. Test your changes.
+6. Commit using meaningful commit messages.
+7. Push your branch.
+8. Open a Pull Request.
+
+---
+
+Branch Naming
+
+Use descriptive branch names:
+
+feature/user-dashboard
+feature/ai-chat
+fix/login-bug
+docs/api-update
+refactor/database-layer
+
+---
+
+Commit Message Convention
+
+Recommended format:
+
+feat: add AI image generator
+
+fix: resolve login issue
+
+docs: update README
+
+refactor: optimize API routes
+
+test: add authentication tests
+
+chore: update dependencies
+
+---
+
+Coding Standards
+
+- Use TypeScript where possible.
+- Write clean, readable code.
+- Keep functions small and focused.
+- Add comments only where necessary.
+- Remove unused code before submitting.
+
+---
+
+Pull Request Checklist
+
+Before opening a Pull Request:
+
+- Code builds successfully.
+- No linting errors.
+- Tests pass.
+- Documentation updated if needed.
+- No sensitive information committed.
+- Commit history is clean.
+
+---
+
+Issue Reporting
+
+When reporting an issue, include:
+
+- Operating System
+- Browser (if applicable)
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Screenshots (if available)
+- Error logs
+
+---
+
+Feature Requests
+
+Please include:
+
+- Problem statement
+- Proposed solution
+- Alternative approaches
+- Expected benefits
+- Example use case
+
+---
+
+Security
+
+Do not disclose security vulnerabilities publicly.
+
+Report security issues privately to the project maintainers before creating a public issue.
+
+---
+
+Documentation
+
+Documentation improvements are always welcome.
+
+You can help by:
+
+- Fixing grammar
+- Improving examples
+- Adding tutorials
+- Updating outdated sections
+
+---
+
+Testing
+
+Before submitting code:
+
+- Run unit tests
+- Verify manual testing
+- Ensure existing features continue working
+- Test on supported environments when applicable
+
+---
+
+Review Process
+
+Every Pull Request will be reviewed for:
+
+- Code quality
+- Maintainability
+- Security
+- Performance
+- Documentation
+- Compatibility
+
+Maintainers may request changes before merging.
+
+---
+
+License
+
+By contributing to this project, you agree that your contributions will be licensed under the project's license.
+
+---
+
+Thank You
+
+Thank you for helping build Nexus SaaS Platform.
+
+Your contributions make the project better for everyone.
