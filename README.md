@@ -1,9 +1,4 @@
-from pathlib import Path
-import pypandoc
 
-md = r"""# Nexus SaaS Platform
-
-> **Enterprise README Template (Starter)**
 
 ## Overview
 Nexus SaaS Platform is an AI-powered, multi-tenant SaaS platform for creators, startups, agencies, and enterprises.
